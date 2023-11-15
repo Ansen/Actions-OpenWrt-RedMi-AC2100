@@ -16,7 +16,7 @@ A template for building OpenWrt with GitHub Actions
 - Select `Build OpenWrt` on the Actions page.
 - Click the `Run workflow` button.
 - When the build is complete, click the `Artifacts` button in the upper right corner of the Actions page to download the binaries.
-- Use `openwrt-x86-64-generic-squashfs-combined-efi.img` to install or upgrade
+- Use `openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin` to install or upgrade
 
 ## Tips
 
